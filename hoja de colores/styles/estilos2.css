@@ -1,0 +1,36 @@
+.div1{
+	background-color:red; 
+	width:3.125%; 
+	height:100%;
+	float:left;
+}
+.div2{
+	background-color:blue; 
+	width:3.125%; 
+	height:100%;
+	float:left;
+}
+.div3{
+	background-color:yellow;
+	width:6.25%;
+	height:100%;
+	float:left;
+}
+.div4{
+	background-color:red; 
+	width:12.5%; 
+	height:100%;
+	float:left;
+}
+.div5{
+	background-color:blue;
+	width:25%; 
+	height:100%;
+	float:left;
+}
+.div6{
+	background-color:yellow; 
+	width:50%; 
+	height:100%;
+	float:right;
+}
